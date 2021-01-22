@@ -57,4 +57,4 @@ $ teleop_twist_keyboard teleop_twist_keyboard.py
 ```
 Navigate your robot, observe its performance and tune your parameters for AMCL! 
 ### Screenshot of the Project
-![](images/ScreenShotRobot.PNG)
+![](https://github.com/Nanda-maker/Project-Where-am-I/blob/master/ScreenShotRobot.PNG)
